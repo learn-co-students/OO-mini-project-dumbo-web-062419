@@ -14,5 +14,13 @@ class Allergy
     def all
         @@all
     end
+
+    def user
+        @user
+    end
+
+    def ingredient
+        @ingredient
+    end
     
 end

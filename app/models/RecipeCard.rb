@@ -14,4 +14,13 @@ class RecipeCard
     def all
         @@all
     end
+
+    def user
+        @user
+    end
+
+    def recipe
+        @recipe
+    end
+
 end

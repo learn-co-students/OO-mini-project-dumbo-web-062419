@@ -15,4 +15,12 @@ class RecipeIngredient
         @@all
     end
 
+    def recipe
+        @recipe
+    end
+
+    def ingredient
+        @ingredient
+    end
+
 end
